@@ -1,2 +1,3 @@
 # K-stepik-auto-tests-course
-Домашние задания к курсу Stepik
+Здесь будут хранится мои домашние задания к курсу от Stepik'а:
+https://stepik.org/course/575/syllabus
